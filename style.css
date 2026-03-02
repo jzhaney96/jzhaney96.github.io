@@ -68,7 +68,7 @@ header {
 }
 
 .hero {
-  background: url('https://images.unsplash.com/photo-1604908177073-3c7b8e5c9f4a') no-repeat center/cover;
+  background:  no-repeat center/cover;
   height: 80vh;
   display: flex;
   align-items: center;
@@ -387,3 +387,4 @@ footer {
     font-size: 3rem;
   }
 }
+
